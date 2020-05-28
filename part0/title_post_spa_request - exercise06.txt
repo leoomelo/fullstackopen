@@ -1,0 +1,8 @@
+Title post spa request - exercise 0.6
+
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+server-->browser: JSON response
+
+note over browser:
+browser renders notes to display
+end note
